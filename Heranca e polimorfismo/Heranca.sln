@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{D69679BE-7C5A-4970-8242-8033DBD95960}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca e Polimorfismo", "Heranca\Heranca e Polimorfismo.csproj", "{D69679BE-7C5A-4970-8242-8033DBD95960}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
